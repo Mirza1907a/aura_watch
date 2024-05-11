@@ -1,0 +1,21 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+button {
+    margin-top: 10px;
+}
+
+img {
+    margin: 5px;
+}
+#vintage, #luxury, #smart
+{
+    background-color:darkturquoise;
+}
+.imgtext
+{
+    margin-top: -12%;
+    margin-left: 30px;
+}
